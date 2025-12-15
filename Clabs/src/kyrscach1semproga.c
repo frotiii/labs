@@ -12,7 +12,7 @@ void clear_text(char** text, size_t sentence_count);
 
 // BASE BASE BASE BASE
 void informations(){
-    printf("Course work for option 4.4, created by Khvedynich Varvara.\n");
+    printf("Course work for option 4.4, created by\n");
 }
 
 void help(){
