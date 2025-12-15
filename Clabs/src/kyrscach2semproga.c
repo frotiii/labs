@@ -205,7 +205,7 @@ int main(int argc, char* argv[]){
 //функции чтения, заполнения файлов + вспомогательные 
 
 void info_for_work(){
-    puts("Course work for option 4.14, created by Khvedynich Varvara.");
+    puts("Course work for option 4.14, created by");
 }
 
 
