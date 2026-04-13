@@ -1,0 +1,6 @@
+https://web.mit.edu/tabbott/Public/quaddouble-debian/qd-2.3.4-old/docs/qd.pdf
+
+https://five.sh/files/pdf/Science/handbook-of-floating-point-arithmetic_compress.pdf
+
+https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format
+
